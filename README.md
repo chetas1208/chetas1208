@@ -33,54 +33,63 @@ A passionate Full-Stack Software Engineer, deep learning researcher, and Master'
 - Reviewed **50+** papers in multimodal sentiment analysis and currently have **1 manuscript under review** with **2 more in preparation**.
 
 ## Skills
-<p align="center"><strong>Languages</strong></p>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/></a>&nbsp;
-  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/></a>&nbsp;
-  <a href="https://docs.python.org/3/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>&nbsp;
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/></a>&nbsp;
-  <a href="https://go.dev/doc/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" alt="Go" width="42" height="42"/></a>&nbsp;
-  <a href="https://www.php.net/docs.php" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="PHP" width="42" height="42"/></a>&nbsp;
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="SQL" width="42" height="42"/></a>
-</p>
-
-<p align="center"><strong>Frameworks & Libraries</strong></p>
-<p align="center">
-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="React" width="42" height="42"/></a>&nbsp;
-  <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42"/></a>&nbsp;
-  <a href="https://expressjs.com/en/starter/installing.html" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" alt="Express" width="42" height="42"/></a>&nbsp;
-  <a href="https://nextjs.org/docs" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42"/></a>&nbsp;
-  <a href="https://docs.djangoproject.com/en/stable/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" alt="Django" width="42" height="42"/></a>&nbsp;
-  <a href="https://flask.palletsprojects.com/en/latest/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original.svg" alt="Flask" width="42" height="42"/></a>&nbsp;
-  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="Spring Boot" width="42" height="42"/></a>&nbsp;
-  <a href="https://laravel.com/docs" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="42" height="42"/></a>&nbsp;
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="42" height="42"/></a>&nbsp;
-  <a href="https://graphql.org/learn/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="42" height="42"/></a>
-</p>
-<p align="center">
-  <a href="https://huggingface.co/docs/transformers/index" target="_blank"><img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/></a>
-  <a href="https://openjfx.io/" target="_blank"><img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX"/></a>
-  <a href="https://www.crewai.com/" target="_blank"><img src="https://img.shields.io/badge/CrewAI-4B2AAD?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
-  <a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
-</p>
-
-<p align="center"><strong>Tools, Cloud & Data</strong></p>
-<p align="center">
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/></a>&nbsp;
-  <a href="https://docs.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" alt="Docker" width="42" height="42"/></a>&nbsp;
-  <a href="https://kubernetes.io/docs/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="42" height="42"/></a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/azure/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-plain.svg" alt="Azure" width="42" height="42"/></a>&nbsp;
-  <a href="https://cloud.google.com/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="42" height="42"/></a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="42" height="42"/></a>
-</p>
-<p align="center">
-  <a href="https://aws.amazon.com/documentation/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
-  <a href="https://spec.openapis.org/" target="_blank"><img src="https://img.shields.io/badge/REST%20APIs-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST APIs"/></a>
-  <a href="https://qdrant.tech/documentation/" target="_blank"><img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/></a>
-  <a href="https://platform.openai.com/docs" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/></a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="150"><strong>Languages</strong></td>
+    <td valign="top">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+      <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></a>
+      <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+      <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+      <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/></a>
+      <a href="https://go.dev/doc/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/></a>
+      <a href="https://www.php.net/docs.php" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="150"><strong>Frameworks</strong></td>
+    <td valign="top">
+      <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/></a>
+      <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+      <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/></a>
+      <a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+      <a href="https://docs.djangoproject.com/en/stable/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/></a>
+      <br/>
+      <a href="https://flask.palletsprojects.com/en/latest/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/></a>
+      <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
+      <a href="https://laravel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/></a>
+      <a href="https://graphql.org/learn/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/></a>
+      <a href="https://openjfx.io/" target="_blank"><img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="150"><strong>AI / LLM</strong></td>
+    <td valign="top">
+      <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+      <a href="https://huggingface.co/docs/transformers/index" target="_blank"><img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/></a>
+      <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+      <a href="https://www.crewai.com/" target="_blank"><img src="https://img.shields.io/badge/CrewAI-4B2AAD?style=flat-square&logo=crewai&logoColor=white" alt="CrewAI"/></a>
+      <a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/></a>
+      <a href="https://platform.openai.com/docs" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="150"><strong>Cloud / Data</strong></td>
+    <td valign="top">
+      <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
+      <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
+      <a href="https://kubernetes.io/docs/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+      <a href="https://learn.microsoft.com/en-us/azure/" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
+      <a href="https://aws.amazon.com/documentation/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/></a>
+      <br/>
+      <a href="https://cloud.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/></a>
+      <a href="https://spec.openapis.org/" target="_blank"><img src="https://img.shields.io/badge/REST_APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST APIs"/></a>
+      <a href="https://qdrant.tech/documentation/" target="_blank"><img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant"/></a>
+      <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
+      <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 <p align="center">
